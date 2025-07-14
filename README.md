@@ -5,12 +5,19 @@
 
 
 🔗👨‍💻A passionate fronted developer from Ethiopia.
+
 -🔭 I'm currently working on tech club website
+
 -🌱 I'm currently learning bootstrap and java script 
+
 -👯‍♂️ I'm currently looking to collaboration on any web frontend project
+
 -🤝 I'm looking for help with JavaScript 
+
 -👨‍💻 All my projects are available at https://github.com/Bereket12-G
+
 -💬 Ask me about python, html
+
 -📬 How to reach me bereketgezhagne12@gmail.com
 
  ---
