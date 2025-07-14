@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/Bereket1Bereket2-G"><img style="margin-bottom: -10px" src="https://readme-typing-svg.demolab.com?font=Noto+Nastaliq+Urdu&weight=700&size=32&duration=700&pause=1000&color=028fe6&center=true&vCenter=true&random=false&width=160&lines=Bereket;%E3%82%A2%E3%83%96%E3%83%87%E3%83%AA%E3%83%A9;%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%A5%D9%84%D9%87" alt="Bereket Typing SVG" /></a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/Bereket12-G"><img style="margin-bottom: -10px" src="https://readme-typing-svg.demolab.com?font=Noto+Nastaliq+Urdu&weight=700&size=32&duration=700&pause=1000&color=028fe6&center=true&vCenter=true&random=false&width=160&lines=Bereket;%E3%82%A2%E3%83%96%E3%83%87%E3%83%AA%E3%83%A9;%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%A5%D9%84%D9%87" alt="Bereket Typing SVG" /></a></h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/bereket">
-    <img src="https://img.shields.io/badge/@bg726685-black?style=for-the-badge&logo=X&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/@X-black?style=for-the-badge&logo=X&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.kaggle.com/bereket" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
