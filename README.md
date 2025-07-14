@@ -35,7 +35,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Bereket1Bereket2-G">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,ps,figma,netlify,github,git" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,ps,figma,canva,github,git" />
   </a>
 </p>
 
