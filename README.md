@@ -1,42 +1,51 @@
-# Bereket12-G.Github.io
-#     Hi👋, I'm Bereket!
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/Bereket1Bereket2-G"><img style="margin-bottom: -10px" src="https://readme-typing-svg.demolab.com?font=Noto+Nastaliq+Urdu&weight=700&size=32&duration=700&pause=1000&color=028fe6&center=true&vCenter=true&random=false&width=160&lines=Bereket;%E3%82%A2%E3%83%96%E3%83%87%E3%83%AA%E3%83%A9;%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%A5%D9%84%D9%87" alt="Bereket Typing SVG" /></a></h1>
 
-![Alt text](https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966)
-
-
-🔗👨‍💻A passionate fronted developer from Ethiopia.
-
--🔭 I'm currently working on tech club website
-
--🌱 I'm currently learning bootstrap and java script 
-
--👯‍♂️ I'm currently looking to collaboration on any web frontend project
-
--🤝 I'm looking for help with JavaScript 
-
--👨‍💻 All my projects are available at https://github.com/Bereket12-G
-
--💬 Ask me about python, html
-
--📬 How to reach me bereketgezhagne12@gmail.com
-
- ---
-  [![](https://visitcount.itsvg.in/api?id=Mrsanyi123&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/bereket-gezhagne-a3691b347/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/bere.ket12/)[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Michael_12_0)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/bereket)[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/bereket-1) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/bereket)
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bereket12-G&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bereket12-G&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bereket1Bereket2-G&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bereket12-G&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Daily Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/bereket-Gezhagne/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/bereket">
+    <img src="https://img.shields.io/badge/@bg726685-black?style=for-the-badge&logo=X&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/bereket" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</div>
 
 
+<h3 align="center">I analyze data and unlock insights.</h3>
+<p align="center">I'm a junior data scientist passionate about delving into the depths of data to uncover meaningful patterns and insights. From debugging to data modeling, I'm dedicated to mastering every aspect of this fascinating domain. Just like in coding, I'm on a constant quest to refine my skills and become the best version of myself. Let's connect, collaborate, and geek out over all things data!</p>
+
+<br><br>
+
+### <p align="center">🛠 &nbsp;Technical Skills</p>
+<br>
+<p align="center">
+  <a href="https://github.com/Bereket1Bereket2-G">
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,anaconda,mongodb,mysql" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Bereket12-G">
+    <img src="https://skillicons.dev/icons?i=flask,django,html,css,bootstrap,js,jquery,react" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Bereket1Bereket2-G">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,ps,figma,netlify,github,git" />
+  </a>
+</p>
+
+<br><br>
+
+### <p align="center">⚙️ &nbsp;GitHub Analytics</p>
+<br>
+<div align="center">
+  <a href="https://github.com/Bereket12-G" style="display: flex; flex-direction: column; align-items: center;">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bereket12-G&layout=compact&langs_count=8&theme=algolia&hide_border=true" style="margin-bottom: 10px;">
+    <img height="180em" src="https://streak-stats.demolab.com?user=isMeXar&theme=algolia&hide_border=true" style="margin-top: 10px; margin-bottom: 10px;">
+  </a>
+</div>
