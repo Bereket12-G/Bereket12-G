@@ -25,7 +25,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/Bereket1Bereket2-G">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,opencv,anaconda,mongodb" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,anaconda,mongodb" />
   </a>
 </p>
 <p align="center">
@@ -35,7 +35,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Bereket1Bereket2-G">
-    <img src="https://skillicons.dev/icons?i=laravel,java,ps,figma,github,git" />
+    <img src="https://skillicons.dev/icons?i=laravel,java,ps,github,git" />
   </a>
 </p>
 
