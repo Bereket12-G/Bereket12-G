@@ -25,17 +25,17 @@
 <br>
 <p align="center">
   <a href="https://github.com/Bereket1Bereket2-G">
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,anaconda,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,opencv,anaconda,mongodb" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Bereket12-G">
-    <img src="https://skillicons.dev/icons?i=flask,django,html,css,bootstrap,js,jquery,react" />
+    <img src="https://skillicons.dev/icons?i=flask,django,html,css,js,jquery,react" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Bereket1Bereket2-G">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,ps,figma,canva,github,git" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,ps,figma,github,git" />
   </a>
 </p>
 
