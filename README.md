@@ -30,7 +30,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Bereket12-G">
-    <img src="https://skillicons.dev/icons?i=flask,django,html,css,js,jquery,react" />
+    <img src="https://skillicons.dev/icons?i=django,html,css,js,jquery,react" />
   </a>
 </p>
 <p align="center">
