@@ -16,7 +16,7 @@
 </div>
 
 
-<h3 align="center">I analyze data and unlock insights.</h3>
+<h3 align="center">I build and develop UI/UX websites.</h3>
 <p align="center">I'm a junior frontend developer passionate about delving into the depths of data to uncover meaningful patterns and insights. From debugging to data modeling, I'm dedicated to mastering every aspect of this fascinating domain. Just like in coding, I'm on a constant quest to refine my skills and become the best version of myself. Let's connect, collaborate, and geek out over all things data!</p>
 
 <br><br>
