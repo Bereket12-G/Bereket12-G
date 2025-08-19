@@ -17,7 +17,7 @@
 
 
 <h3 align="center">I build and develop UI/UX websites.</h3>
-<p align="center">I'm a junior Highly motivated Frontend and  Web Developer passionated about crafting intuitive, engaging, and  user-centered digital experiences. Adept at translating complex needs into functional, high-quality, and accessible web applications. Seeking to leverage technical and design skills to contribute to innovative projects and enhance user satisfaction, I'm on a constant quest to refine my skills and become the best version of myself. Let's connect, collaborate, and geek out over all things data!</p>
+<p align="center">I'm a Senior Highly motivated Full-Stuck and  Web Developer passionated about crafting intuitive, engaging, and  user-centered digital experiences. Adept at translating complex needs into functional, high-quality, and accessible web applications. Seeking to leverage technical and design skills to contribute to innovative projects and enhance user satisfaction, I'm on a constant quest to refine my skills and become the best version of myself. Let's connect, collaborate, and geek out over all things data!</p>
 
 <br><br>
 
